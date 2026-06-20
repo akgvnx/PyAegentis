@@ -28,6 +28,5 @@ The tool:
 - Windows 10/11 x64
 - MSVC Build Tools
 - PyInstaller 6+
-- Themida (optional, manual — release native pyd)
 
 ---

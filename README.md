@@ -1,2 +1,2 @@
 # Aegentis Protector / PyAegentis
-A Python source protector for encrypting scripts into AEGBC bytecode and, optionally, PyInstaller EXE builds.
+Python source protector for encrypting and protecting your applications, turning .py files into encrypted runtime packages with pyd output and PyInstaller EXE support.

@@ -27,3 +27,11 @@ The tool:
 - PyInstaller 6+
 
 ---
+
+## Coming Soon
+
+- Python **3.13 & 3.14** Support
+- Some New Commands
+- Optimization
+
+---

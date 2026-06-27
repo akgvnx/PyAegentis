@@ -22,7 +22,7 @@ The tool:
 
 ## Requirements
 
-- Python (**3.12 / 3.13 / 3.14**=
+- Python (**3.12 / 3.13 / 3.14**)
 - Windows 10/11 x64
 - MSVC Build Tools
 - PyInstaller 6+

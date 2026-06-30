@@ -2,7 +2,7 @@
 Python source protector for encrypting and protecting your applications, turning .py files into encrypted runtime packages with pyd output and PyInstaller support.
 
 - **Version:** 1.3
-
+- **Updates:** [Releases](https://github.com/lyxrenn/PyAegentis/blob/main/RELEASES.md)
 - **License:** Proprietary - not open source.
 
 ---
